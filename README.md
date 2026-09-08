@@ -12,3 +12,8 @@ IP addressing scheme used (e.g. VLSM, static IP, DHCP)
 Protocols configured (e.g. RIP, OSPF, DHCP, DNS)
 VLANs.
 
+## Author
+Riya Patel
+
+## Credits
+This project was built while following a tutorial on YouTube: [video title or channel name] (add the link if you want)
