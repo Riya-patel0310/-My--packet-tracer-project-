@@ -169,4 +169,6 @@ Connectivity verification
 [Riya Patel]
 
 Credits
-This project was built while following a tutorial on YouTube: [video title or channel name] (add the link if you want)
+
+The Last Hop Tech
+This project was built while following a tutorial on YouTube: [Multi Area OSPF, InterVlan Routing & DHCP Configuration] 
