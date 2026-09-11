@@ -168,4 +168,5 @@ Connectivity verification
 
 [Riya Patel]
 
-Cisco Networking / Network Engineering Student
+Credits
+This project was built while following a tutorial on YouTube: [video title or channel name] (add the link if you want)
