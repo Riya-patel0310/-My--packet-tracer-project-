@@ -1,7 +1,7 @@
 
 
 Overview
-
+![Network Diagram](toplogy-Diagram.png)
 This project demonstrates a multi-switch enterprise network built in Cisco Packet Tracer, featuring:
 
 VLAN Segmentation — dividing the network across multiple access switches into separate VLANs
