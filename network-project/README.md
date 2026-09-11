@@ -1,6 +1,6 @@
 
 
-
+![Network Diagram](network-diagram.png)
 
 Inter-VLAN Routing + Multi-Area OSPF + DHCP Server
 Project Overview
