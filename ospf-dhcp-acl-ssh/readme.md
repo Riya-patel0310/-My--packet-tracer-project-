@@ -4,7 +4,7 @@
 
 
 
-![topology-diagrampng01](topology-diagram01.png)
+![topology-diagrampng01](topology-diagram01.png.png)
 
 
 Overview
